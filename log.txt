@@ -1,0 +1,1 @@
+f k f k f k f a n k i t Key.left Key.left Key.right Key.right Key.right Key.backspace Key.backspace Key.backspace Key.delete Key.enter Key.left Key.left Key.left Key.left Key.right Key.right Key.right Key.backspace Key.backspace Key.backspace 
